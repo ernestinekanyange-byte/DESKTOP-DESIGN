@@ -35,7 +35,7 @@ body{
 .rating-cards {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 25px;
   background-color: hsl(300, 12%, 82%);
   border-radius: 8px;
   padding: 16px 28px;
